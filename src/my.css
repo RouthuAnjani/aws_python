@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: crimson;
+    background-color: rgb(191, 144, 235);
+}
+p{
+    padding: 20px;
+    font-style: italic;
+    font-size: larger;
+}
